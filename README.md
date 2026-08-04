@@ -78,13 +78,16 @@ I recently completed an end‑to‑end Business Intelligence project using Power
 
 ## 📊 Dashboard Preview
 
-### 💰 Finance Dashboard
-![Finance Dashboard](PROJECT%20IMAGES/Finance%20Dashboard.jpg)
+## Finance Dashboard
 
-### 🏥 Hospital Operations Dashboard
-![Hospital Operations Dashboard](PROJECT%20IMAGES/Hospital%20Operations%20Dashboard.jpg)
+![Finance Dashboard](PROJECT%20IMAGES/Screenshot%202026-08-03%20211612.png)
 
-### 👨‍⚕️ Patient & Doctor Overview
-![Patient & Doctor Overview](PROJECT%20IMAGES/Patient%20Doctor%20Overview.jpg)
+## Hospital Operations Dashboard
+
+![Hospital Operations Dashboard](PROJECT%20IMAGES/Screenshot%202026-08-03%20211649.png)
+
+## Patient & Doctor Overview
+
+![Patient & Doctor Overview](PROJECT%20IMAGES/Screenshot%202026-08-03%20211705.png)
 
 data). This project replicates a real consulting engagement where I worked as a Junior Data Analyst to design dashboards that provide actionable insights for hospital operations.
