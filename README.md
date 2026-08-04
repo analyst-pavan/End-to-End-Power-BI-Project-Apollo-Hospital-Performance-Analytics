@@ -76,10 +76,15 @@ The solution focuses on three major business areas:
 This dashboard helps hospital administrators monitor key performance indicators, optimize hospital resources, improve financial planning, evaluate doctor performance, and enhance patient care through data-driven insights.# End-to-End-Power-BI-Project-Apollo-Hospital-Performance-Analytics
 I recently completed an end‑to‑end Business Intelligence project using Power BI with hospital datasets (Kaggle + simulated Apollo 
 
-![Hospital Operations](Images/operations.png)
+## 📊 Dashboard Preview
 
-![Finance Dashboard](Images/finance.png)
+### 💰 Finance Dashboard
+![Finance Dashboard](PROJECT%20IMAGES/Finance%20Dashboard.jpg)
 
-![Patient & Doctor Overview](Images/doctor.png)
+### 🏥 Hospital Operations Dashboard
+![Hospital Operations Dashboard](PROJECT%20IMAGES/Hospital%20Operations%20Dashboard.jpg)
+
+### 👨‍⚕️ Patient & Doctor Overview
+![Patient & Doctor Overview](PROJECT%20IMAGES/Patient%20Doctor%20Overview.jpg)
 
 data). This project replicates a real consulting engagement where I worked as a Junior Data Analyst to design dashboards that provide actionable insights for hospital operations.
