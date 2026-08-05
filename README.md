@@ -74,7 +74,7 @@ The solution focuses on three major business areas:
 ## 📌 Business Impact
 
 This dashboard helps hospital administrators monitor key performance indicators, optimize hospital resources, improve financial planning, evaluate doctor performance, and enhance patient care through data-driven insights.# End-to-End-Power-BI-Project-Apollo-Hospital-Performance-Analytics
-I recently completed an end‑to‑end Business Intelligence project using Power BI with hospital datasets (Kaggle + simulated Apollo 
+I recently completed an end‑to‑end Business Intelligence project using Power BI with hospital datasets (Kaggle + Apollo 
 
 ## 📊 Dashboard Preview
 
